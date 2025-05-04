@@ -1,5 +1,8 @@
 # Cognifyz Technologies Internship – Python Development
 
+
+![Cognifyz Logo](https://www.cognifyz.com/images/logo.png) 
+
 **Cognifyz – Where Data Meets Intelligence**
 
 ---
